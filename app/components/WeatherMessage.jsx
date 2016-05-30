@@ -3,7 +3,7 @@ var React = require('react');
 // destructuring = props by default, as in `{ location, temp } = props`
 var WeatherMessage = ({ location, temp }) => {
   return (
-    <p>It's {temp} in {location}.</p>
+    <h3 className="text-center">It's {temp} in {location}.</h3>
   );
 };
 
