@@ -7,7 +7,7 @@ var Examples = () => {
         <h1 className="page-title text-center">Examples</h1>
         <p>Here are some examples to try out:</p>
         <ul>
-          <li><Link to="/?location=new-york">New York, NY</Link></li>
+          <li><Link to="/?location=tokyo">Tokyo, Japan</Link></li>
           <li><Link to="/?location=boston">Boston, MA</Link></li>
           <li><Link to="/?location=nice">Nice, France</Link></li>
         </ul>
